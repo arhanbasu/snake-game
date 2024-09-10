@@ -30,7 +30,7 @@ To run the Snake game, you need a terminal that supports ANSI escape codes. Foll
 2. **Compile the source code**:
    Use `gcc` or any compatible C compiler to build the game:
    ```bash
-   gcc snake_game.c -o snake_game
+   g++ snake_game.c -o snake_game
    ```
 
 3. **Run the game**:
