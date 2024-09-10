@@ -1,6 +1,6 @@
 # Snake Game
 
-This is a console-based Snake game written in C. It brings back the classic gameplay experience with a few added features. The game runs directly in the terminal and is designed to be lightweight and simple, yet engaging.
+This is a console-based Snake game written in C++. It brings back the classic gameplay experience with a few added features. The game runs directly in the terminal and is designed to be lightweight and simple, yet engaging.
 
 ## Features
 
